@@ -12,7 +12,6 @@
         margin-top:500px ; }
         p{margin-top:200px;
             font-size: 50px; 
-            background-color: ;
         } 
         form{font-size:50px;
             margin-top: 1000px;
@@ -21,11 +20,11 @@
      </style>
    </head>
    <body>
-<center><h1><i  class="tood" style="color:silver;  margin-top:200px; "> نتيجة الصف الثالث الاعدادي</i></h1></center>
-<center><p style="color:silver; ">
+<h1><i  class="tood" style=" text-align: center; color:silver;  margin-top:200px; "> نتيجة الصف الثالث الاعدادي</i></h1>
+<p style="color:silver; ">
    النهارده اول يوم ظهور نتيجت الصف الثالث الاعدادي محافظة اسيوط 
-</center> </p>
-<center>
+ </p>
+
 <form><label ></label>
   <input  style="font-size: 40px;"  type="text" dir="اسم الطالب" required placeholder ="اسم الطالب"/> 
  <p></p>   
@@ -34,23 +33,20 @@
 <input  style="font-size: 40px" type="text" dir="رقم الجلوس" required placeholder="رقم الجلوس "/>
 
 
-</center>
-<center> 
+ 
 <i class="told">
 <input  style="font-size:50px;  margin-top:100px; " type="submit"     value="ارسال"    />
 
 </i>
-<center style="color:silver; ">
-   <p style="color:silver; "></p>
+   <p style="color:silver; text-align: center; ">
     انتظر بعض الوقت ان لن يتم تحميل الموقع معك 
     حافظ علي امان الموقع وسياسة الخصوصية 
-   جميع الحقوق محفوظة لصالح موقع mahmoud
+   جميع الحقوق محفوظة لصالح موقع mahmoud</p>
     <br />
     
-</center>
 </form>
-<div  style="color:silver;  margin-top: 1000px; " >
-<center>
+<div  style=" text-align: center; color:silver;  margin-top: 1000px; " >
+
     لو مجموعك معجبكش شد شويه الترم التاني مش عيب 
     متهليش حد يشمت فيك 
     متستسلمش 
@@ -58,25 +54,19 @@
 
     
 </div>
-</center> 
-<center style="margin-top: 700px; color: silver; ">
-<br /><p>
+<br /><p style=" text-align: center; margin-top: 700px; color: silver; ">
 
  بالتوفيق للجميع
-</center>
-
+</p>
     
 
 <hr style="background-color:black; border:black solid 5px; margin-top: 200px;" />
 <br />
-<center> 
-<p style="margin-top:1000px;color:  silver; ">
+<p style=" text-align: center; margin-top:1000px;color:  silver; ">
     mahmoud ali mahmoud
 
 </p>
 
-
-</center>
 <div class="contact">
   <div class="container">
       
